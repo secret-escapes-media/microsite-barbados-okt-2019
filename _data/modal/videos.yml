@@ -1,0 +1,23 @@
+
+- id: condor-one-video
+  youtube-id: BCuvQjrP4N4
+  page: journey
+  pages:
+    - id: overview
+    - id: condor
+
+- id: condor-two-video
+  youtube-id: tCre91_iC8c
+  page: journey
+  pages:
+    - id: overview
+    - id: condor
+
+- id: condor-three-video
+  youtube-id: -nQxIwWXkoQ
+  page: journey
+  pages:
+    - id: overview
+    - id: condor
+
+-

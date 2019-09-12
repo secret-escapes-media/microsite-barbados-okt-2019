@@ -1,0 +1,25 @@
+# Site settings
+title: Barbados
+client:
+  name: Karibischer Sehnsuchtsort
+  link: "http://bit.ly/2BYpVBV"
+  link2: "http://bit.ly/2lT23uh"
+core-se-link: https://www.secretescapes.de/aktuelle-angebote?utm_source=SE&utm_medium=hub&utm_campaign=barbados_DE_Sept2019
+description: >
+  Das einmalige barbadische Lebensgefühl, Strände für jeden Geschmack und ein Universum an Soft Adventures: all das spricht dafür, Barbados ganz weit oben auf Ihre Reiseliste zu schreiben.
+
+# file paths
+url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/de/barbados-okt-2019" # the subpath of your site, e.g. /blog/
+img:     "/de/barbados-okt-2019/_assets/img"
+css:     "/de/barbados-okt-2019/_assets/css"
+js:      "/de/barbados-okt-2019/_assets/js"
+
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+keep_files: [_assets]
+sass:
+    sass_dir: css
+    style: compressed
