@@ -1,0 +1,48 @@
+- id: one
+  title: Über den Wolken
+  img: bg-img1
+  description: "Hier ist etwas für die Schwindelfreien: besteigen Sie mit Microlight Tours ein Ultraleichtflugzeug und sehen Sie Barbados von ganz oben. Ausgerüstet mit Helm und Headset sitzen Sie in einem der leichten Flugzeuge, die maximal zwei Personen Platz bieten und lassen im wahrsten Sinne alles auf sich zukommen. Sehen Sie das karibische Meer unter sich ausgebreitet und spüren Sie absolute Freiheit während Ihr Pilot den Begleitkommentar zum unvergesslichsten Höhenflug Ihres Lebens abgibt. Keine Erfahrung notwendig, nur Mut."
+
+
+
+################################################################################
+
+
+- id: two
+  title: Genuss im Einklang mit der Natur
+  img: bg-img2
+  video: premium
+  description: "Die PEG Farm and Nature Reserve praktiziert als erste Farm ihrer Art auf Barbados nachhaltige Landwirtschaft. Prinzipien wie Freilandhaltung und Permakultur und der bewusste Verzicht auf Pestizide oder Antibiotika sind dabei die Säulen von PEG. Lernen Sie bei einer zweistündigen Eco-Wanderung mehr über Biodynamik und sehen Sie freilaufende Tiere in panoramischer Umgebung des Hackleton’s Cliff. Anschließend genießen Sie im Chrysalis Café farmeigene Produkte – und stoßen bei Wunsch mit einem Rum-Punch an."
+
+
+
+
+################################################################################
+
+
+- id: three
+  title: Auf rasanten Wegen
+  img: bg-img3
+  description: "Sie fühlen sich nur richtig gut, wenn Sie aktiv bestimmen, wo es hingeht? Dann ist das Folgende genau richtig. Schwingen Sie sich auf ein Mountainbike und folgen Sie 3 Stunden lang dem Snakes and Ladders Mountain Bike Trail auf unbefestigten Wegen durch den Dschungel, über Brücken und Bananenplantagen. Dabei erkunden Sie nicht nur das wilde Herz von Barbados – tief im pulsierenden Wald – sondern auch Ihr eigenes. Wir hoffen nur, dass Sie nicht allzu viele Schlangen treffen."
+
+
+
+
+################################################################################
+
+
+- id: four
+  title: Segeln wie Epikur
+  img: bg-img4
+  description: "Ein Epikureer ist ein Genussmensch – zum Beispiel jemand, der dem Sonnenuntergang in Barbados entgegen segelt. Eingeläutet wird die private Katamaranfahrt gegen 16.30 Uhr mit einem Signature-Cocktail. Danach dockt Ihr Edelschiff in einer ruhigen Bucht, die zum nächtlichen Schnorcheln – inklusive Unterwasser-LED – oder Schwimmen einlädt. Ein echtes Erlebnis, wenn die Gewässer farblich erstrahlen. Das Einzige, was hier mithalten kann, ist der Fine-Dining-Genuss an Bord, der den Abend abrundet und unvergesslich macht."
+
+
+
+
+################################################################################
+
+
+- id: five
+  title: Großer Tag für kleine&nbsp;Schildkröten
+  img: bg-img5
+  description: "Unsere Ozeane brauchen all die Hilfe, die sie bekommen können. Dabei ist das Barbados Sea Turtle Project der University of West Indies ein Vorreiter in der karibischen Region. Seit 25 Jahren ist es ihr Ziel, die Schildkröten-Population aufrecht zu erhalten und damit zum ökologischen Gleichgewicht beizutragen. Sie schützen die Reptilien vor Raubtieren und leisten Schlüpfhilfe für Schildkrötejungen. Erleben Sie den herzerweichenden Moment, wenn die Baby-Karettschildkröten ihren ersten Gang zum Meer antreten – was zwischen Mai und Oktober alle 2 Wochen zumindest einmal stattfindet. "

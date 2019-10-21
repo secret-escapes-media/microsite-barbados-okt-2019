@@ -38,7 +38,7 @@
   &--center { text-align: center; }
   @include bp($lg) {
     &--bp-left   { text-align: left; }
-    &--bp-justify   { text-align: justify; }
+    &--bp-justify  { text-align: justify; }
     &--bp-right  { text-align: right; }
     &--bp-center { text-align: center; }
   }

@@ -1,19 +1,30 @@
-- title: South-Beach-Style auf Barbados
-  location: The SoCo Hotel, Bridgetown, Barbados
-  description: Boutique-Strandhotel mit Privatstrand – inkl. All-inclusive
-  price: 262
-  price-description: pro Zimmer pro Nacht
-  saved: 40
-  expires: 2019/09/16
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/96595/b686da1e_0ada_4301_8492_8027550c4992.jpg?auto=format,compress
-  link: http://bit.ly/2ZvkBnm
 
-- title: Genuss & Erholung am Karibikstrand
-  location: Sugar Bay Barbados, Bridgetown, Barbados
-  description: Unbeschwertes Karibikflair mit Pools und Meer – inkl. All-inclusive & Spa-Gutschein
-  price: 263
-  price-description: pro Zimmer pro Nacht
-  saved: 23
-  expires: 2019/09/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89264/f41b1071_85e0_414b_8a2d_c46317ec09fe.jpg?auto=format,compress
-  link: http://bit.ly/2kbRfXW
+- title: All-inclusive-Karibiktraum auf Barbados
+  location: Turtle Beach by Elegant Hotels, Dover, Christ Church, Barbados, Karibik
+  description: Tropische All-inclusive-Erholung unter Palmen – inkl. All-inclusive
+  price: 361
+  price-description: pro Junior-Suite pro Nacht
+  saved: 22
+  expires: 2019/10/21
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/93918/ac0f0fdd_7403_4efd_9ca9_fdb14a6592cd.jpg?auto=format,compress
+  link: http://bit.ly/35c2Jx3
+
+- title: Karibik-Traum an der Küste von Barbados
+  location: Tamarind by Elegant Hotels, Paynes Bay, St. James, Barbados
+  description: Strandgenuss pur unter tropischen Palmen – inkl. All-inclusive
+  price: 388
+  price-description: pro Suite pro Nacht
+  saved: 50
+  expires: 2019/10/28
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/91351/32cd4405_fb31_4397_8dde_f5c22e781851.jpg?auto=format,compress
+  link: http://bit.ly/2VJpi8e
+
+- title: Zeit zum Träumen am Strand von Barbados
+  location: Barbados Beach Club, Christ Church, Barbados
+  description: Karibisches Flair an der Südküste von Barbados – inkl. All-inclusive
+  price: 170
+  price-description: .pro Zimmer pro Nacht
+  saved: 41
+  expires: 2019/11/04
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103745/64363af8_bc8c_42b1_bc89_acf70327b9a1.jpg?auto=format,compress
+  link: http://bit.ly/2J81fdU
